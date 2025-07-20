@@ -31,3 +31,6 @@ This project is a simple PHP and MySQL web application that allows users to be a
 - `fetch.js`: Loads data dynamically to the page.
 - `update.php`: Toggles the user status.
 - `style.css`: Basic styling for the page.
+![User Image](https://github.com/Raghad-ALSalmi/User-Status/blob/main/Screenshot%202025-07-20%20072605.png)
+![User Image](https://github.com/Raghad-ALSalmi/User-Status/blob/main/Screenshot%202025-07-20%20072611.png)
+  

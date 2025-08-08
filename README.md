@@ -61,4 +61,4 @@ You can now:
 
 | Example 1 | Example 2 |
 |-----------|-----------|
-| ![User Image](Screenshot 2025-07-20 072611.png) | ![User Image](png) |
+| ![User Image](Screenshot 2025-07-20 072611.png) | ![User Image](Screenshot 2025-07-20 072605.png) |
